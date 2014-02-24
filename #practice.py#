@@ -1,0 +1,11 @@
+#!/usr/bin/python 
+
+import sys
+
+def inpt():
+    
+    
+        print sys.argv[1]
+        return 
+
+inpt()
